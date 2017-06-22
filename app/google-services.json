@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "412953343994",
+    "firebase_url": "https://food-2b5ac.firebaseio.com",
+    "project_id": "food-2b5ac",
+    "storage_bucket": "food-2b5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412953343994:android:4748740c3fb5820f",
+        "android_client_info": {
+          "package_name": "com.example.levanduc.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412953343994-i6tdid202sg5450eqtruo0k62numlqa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66H_fyfbvgpkUKMHiNm3DQB4eitvZiVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
